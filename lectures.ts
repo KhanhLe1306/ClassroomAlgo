@@ -61,3 +61,24 @@ export const lectures: Lecture[] = [
 		isDone: false,
 	},
 ];
+
+export const assignedLectures: Lecture[] = [
+	{
+		start: 945,
+		end: 1100,
+		room: "c",
+		isDone: false,
+	},
+	{
+		start: 1000,
+		end: 1115,
+		room: "d",
+		isDone: false,
+	},
+	{
+		start: 930,
+		end: 1015,
+		room: "f",
+		isDone: false,
+	},
+];
